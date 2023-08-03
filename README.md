@@ -7,8 +7,10 @@ A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
 
-## Changed the color scheme to gruvbox
-
+## Changed the color scheme
+- gruvbox
+## Added tailwind-css language server for colorizing my css.
+- https://www.youtube.com/watch?v=_NiWhZeR-MY&list=TLPQMzEwNzIwMjOH9-Vj_iVKxQ&index=9
 
 ## TODO:
 - [ ] Add special chars w/ the IndentLine plugin.
