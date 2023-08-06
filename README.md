@@ -15,6 +15,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## TODO:
 - [ ] Add special chars w/ the IndentLine plugin.
+- [ ] Add bracket rainbow nvim plugin.
 - [ ] Add the stay-centered.nvim focus centering plugin.
 - [ ] Add the git-emoji & fuGITive plugins for git.
 - [ ] Add undo-tree.nvim
